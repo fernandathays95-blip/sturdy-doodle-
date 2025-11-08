@@ -1,0 +1,49 @@
+� � 
+�  — Replacement Character (U+FFFD) → aparece quando o caractere é inválido ou desconhecido
+□  — White Square (U+25A1) → usado como substituto genérico de glifo ausente
+◻  — Medium White Square (U+25FB)
+◼  — Medium Black Square (U+25FC)
+◽  — White Medium-Small Square (U+25FD)
+◾  — Black Medium-Small Square (U+25FE)
+⬜  — Large White Square (U+2B1C)
+⬛  — Large Black Square (U+2B1B)
+▢  — White Square with Rounded Corners (U+25A2)
+⬚  — White Medium Square (U+2B1A)
+⯐  — Missing Glyph Box (U+2BD0) → símbolo técnico de fonte ausente
+⯑  — Empty Square Outline (U+2BD1)
+⯒  — Square Placeholder (U+2BD2)
+◧  — White Square with Left Half Black (U+25E7)
+◨  — White Square with Right Half Black (U+25E8)
+◩  — White Square with Upper Left Diagonal Half Black (U+25E9)
+◪  — White Square with Lower Right Diagonal Half Black (U+25EA)
+▢ ▣ ▤ ▥ ▦ ▧ ▨ ▩ — variações de quadrados texturizados
+⧈  — Concave-Sided Diamond (U+29C8) → também usado como símbolo genérico de falha
+␣   — (U+2423) Símbolo de espaço (representação visual)
+␠   — (U+2420) Space (símbolo técnico)
+  — (U+0020) Espaço normal
+  — (U+2002) Espaço en (meio de um em)
+  — (U+2003) Espaço em (largura de um "M")
+  — (U+2004) Espaço três-por-em
+  — (U+2005) Espaço quatro-por-em
+  — (U+2006) Espaço seis-por-em
+  — (U+2007) Espaço de figura (mesma largura que números)
+  — (U+2008) Espaço de pontuação
+  — (U+2009) Espaço fino
+  — (U+200A) Espaço muito fino
+  — (U+202F) Espaço estreito sem quebra (narrow no-break space)
+　 — (U+3000) Espaço ideográfico (usado no japonês e chinês)
+  — (U+00A0) No-break space (impede quebra de linha)
+⁣ — (U+2063) Invisível sem largura (invisible separator)
+  — (U+202F) Narrow no-break space
+ㅤ — (U+3164) Hangul filler (usado em textos coreanos)
+⠀ — (U+2800) Espaço braille (braille pattern blank)
+​ — (U+200B) Zero-Width Space (ZWS)  
+‌ — (U+200C) Zero-Width Non-Joiner (ZWNJ)  
+‍ — (U+200D) Zero-Width Joiner (ZWJ)  
+⁠ — (U+2060) Word Joiner  
+ᅠ — (U+1160) Hangul Jungseong Filler  
+﻿ — (U+FEFF) Byte Order Mark (BOM) — pode aparecer no início de arquivos  
+𑂽 — (U+110BD) Kaithi Number Sign (invisível)
+ — (U+2028) Line Separator (quebra de linha lógica)
+  — (U+2029) Paragraph Separator
+  — (U+2000) Espaço quadrado (figure space)
