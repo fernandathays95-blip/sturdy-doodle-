@@ -47,3 +47,289 @@
  — (U+2028) Line Separator (quebra de linha lógica)
   — (U+2029) Paragraph Separator
   — (U+2000) Espaço quadrado (figure space)
+U+0000 — NUL  → Null (fim de string / nada)
+U+0001 — SOH  → Start of Heading
+U+0002 — STX  → Start of Text
+U+0003 — ETX  → End of Text
+U+0004 — EOT  → End of Transmission
+U+0005 — ENQ  → Enquiry
+U+0006 — ACK  → Acknowledge
+U+0007 — BEL  → Bell (emite um “bip”)
+U+0008 — BS   → Backspace
+U+0009 — TAB  → Tabulação horizontal (Tab)
+U+000A — LF   → Line Feed (nova linha / \n)
+U+000B — VT   → Tabulação vertical
+U+000C — FF   → Form Feed (mudança de página)
+U+000D — CR   → Carriage Return (retorno de linha / \r)
+U+000E — SO   → Shift Out
+U+000F — SI   → Shift In
+U+0010 — DLE  → Data Link Escape
+U+0011 — DC1  → Device Control 1
+U+0012 — DC2  → Device Control 2
+U+0013 — DC3  → Device Control 3
+U+0014 — DC4  → Device Control 4
+U+0015 — NAK  → Negative Acknowledge
+U+0016 — SYN  → Synchronous Idle
+U+0017 — ETB  → End of Transmission Block
+U+0018 — CAN  → Cancel
+U+0019 — EM   → End of Medium
+U+001A — SUB  → Substitute
+U+001B — ESC  → Escape (usado em comandos ANSI e terminais)
+U+001C — FS   → File Separator
+U+001D — GS   → Group Separator
+U+001E — RS   → Record Separator
+U+001F — US   → Unit Separator
+U+007F — DEL  → Delete (caractere de exclusão)
+U+0080 — PAD  → Padding Character
+U+0081 — HOP  → High Octet Preset
+U+0082 — BPH  → Break Permitted Here
+U+0083 — NBH  → No Break Here
+U+0084 — IND  → Index
+U+0085 — NEL  → Next Line
+U+0086 — SSA  → Start of Selected Area
+U+0087 — ESA  → End of Selected Area
+U+0088 — HTS  → Horizontal Tab Set
+U+0089 — HTJ  → Horizontal Tab Justify
+U+008A — VTS  → Vertical Tab Set
+U+008B — PLD  → Partial Line Down
+U+008C — PLU  → Partial Line Up
+U+008D — RI   → Reverse Index
+U+008E — SS2  → Single Shift Two
+U+008F — SS3  → Single Shift Three
+U+0090 — DCS  → Device Control String
+U+0091 — PU1  → Private Use 1
+U+0092 — PU2  → Private Use 2
+U+0093 — STS  → Set Transmit State
+U+0094 — CCH  → Cancel Character
+U+0095 — MW   → Message Waiting
+U+0096 — SPA  → Start of Protected Area
+U+0097 — EPA  → End of Protected Area
+U+0098 — SOS  → Start of String
+U+0099 — SGCI → Single Graphic Character Introducer
+U+009A — SCI  → Single Character Introducer
+U+009B — CSI  → Control Sequence Introducer (usado em comandos ANSI)
+U+009C — ST   → String Terminator
+U+009D — OSC  → Operating System Command
+U+009E — PM   → Privacy Message
+U+009F — APC  → Application Program Command
+␀ — (U+2400) SYMBOL FOR NULL
+␁ — (U+2401) SYMBOL FOR START OF HEADING
+␂ — (U+2402) SYMBOL FOR START OF TEXT
+␃ — (U+2403) SYMBOL FOR END OF TEXT
+␄ — (U+2404) SYMBOL FOR END OF TRANSMISSION
+␅ — (U+2405) SYMBOL FOR ENQUIRY
+␆ — (U+2406) SYMBOL FOR ACKNOWLEDGE
+␇ — (U+2407) SYMBOL FOR BELL
+␈ — (U+2408) SYMBOL FOR BACKSPACE
+␉ — (U+2409) SYMBOL FOR HORIZONTAL TABULATION
+␊ — (U+240A) SYMBOL FOR LINE FEED
+␋ — (U+240B) SYMBOL FOR VERTICAL TABULATION
+␌ — (U+240C) SYMBOL FOR FORM FEED
+␍ — (U+240D) SYMBOL FOR CARRIAGE RETURN
+␎ — (U+240E) SYMBOL FOR SHIFT OUT
+␏ — (U+240F) SYMBOL FOR SHIFT IN
+␐ — (U+2410) SYMBOL FOR DATA LINK ESCAPE
+␑ — (U+2411) SYMBOL FOR DEVICE CONTROL ONE
+␒ — (U+2412) SYMBOL FOR DEVICE CONTROL TWO
+␓ — (U+2413) SYMBOL FOR DEVICE CONTROL THREE
+␔ — (U+2414) SYMBOL FOR DEVICE CONTROL FOUR
+␕ — (U+2415) SYMBOL FOR NEGATIVE ACKNOWLEDGE
+␖ — (U+2416) SYMBOL FOR SYNCHRONOUS IDLE
+␗ — (U+2417) SYMBOL FOR END OF TRANSMISSION BLOCK
+␘ — (U+2418) SYMBOL FOR CANCEL
+␙ — (U+2419) SYMBOL FOR END OF MEDIUM
+␚ — (U+241A) SYMBOL FOR SUBSTITUTE
+␛ — (U+241B) SYMBOL FOR ESCAPE
+␜ — (U+241C) SYMBOL FOR FILE SEPARATOR
+␝ — (U+241D) SYMBOL FOR GROUP SEPARATOR
+␞ — (U+241E) SYMBOL FOR RECORD SEPARATOR
+␟ — (U+241F) SYMBOL FOR UNIT SEPARATOR
+␠ — (U+2420) SYMBOL FOR SPACE
+␡ — (U+2421) SYMBOL FOR DELETE
+␢ — (U+2422) BLANK SYMBOL
+␣ — (U+2423) OPEN BOX (símbolo comum de espaço)
+␤ — (U+2424) SYMBOL FOR NEWLINE
+␥ — (U+2425) SYMBOL FOR DELETE FORM TWO
+␦ — (U+2426) SYMBOL FOR SUBSTITUTE FORM TWO
+␧ — (U+2427) SYMBOL FOR END OF TRANSMISSION FORM TWO
+␨ — (U+2428) SYMBOL FOR NEW PAGE FORM TWO
+␩ — (U+2429) SYMBOL FOR SHIFT IN FORM TWO
+␪ — (U+242A) SYMBOL FOR SHIFT OUT FORM TWO
+␫ — (U+242B) SYMBOL FOR SUBSTITUTE FORM THREE
+␬ — (U+242C) SYMBOL FOR SUBSTITUTE FORM FOUR
+␭ — (U+242D) SYMBOL FOR SUBSTITUTE FORM FIVE
+␮ — (U+242E) SYMBOL FOR SUBSTITUTE FORM SIX
+␯ — (U+242F) SYMBOL FOR SUBSTITUTE FORM SEVEN
+␰ — (U+2430) SYMBOL FOR SUBSTITUTE FORM EIGHT
+␱ — (U+2431) SYMBOL FOR SUBSTITUTE FORM NINE
+␲ — (U+2432) SYMBOL FOR SUBSTITUTE FORM TEN
+␳ — (U+2433) SYMBOL FOR SUBSTITUTE FORM ELEVEN
+␴ — (U+2434) SYMBOL FOR SUBSTITUTE FORM TWELVE
+␵ — (U+2435) SYMBOL FOR SUBSTITUTE FORM THIRTEEN
+␶ — (U+2436) SYMBOL FOR SUBSTITUTE FORM FOURTEEN
+␷ — (U+2437) SYMBOL FOR SUBSTITUTE FORM FIFTEEN
+␸ — (U+2438) SYMBOL FOR SUBSTITUTE FORM SIXTEEN
+␹ — (U+2439) SYMBOL FOR SUBSTITUTE FORM SEVENTEEN
+␺ — (U+243A) SYMBOL FOR SUBSTITUTE FORM EIGHTEEN
+␻ — (U+243B) SYMBOL FOR SUBSTITUTE FORM NINETEEN
+␼ — (U+243C) SYMBOL FOR SUBSTITUTE FORM TWENTY
+␽ — (U+243D) SYMBOL FOR SUBSTITUTE FORM TWENTY-ONE
+␾ — (U+243E) SYMBOL FOR SUBSTITUTE FORM TWENTY-TWO
+␿ — (U+243F) SYMBOL FOR SUBSTITUTE FORM TWENTY-THREE
+⌘ — (U+2318) Command Key (símbolo da Apple)
+⌥ — (U+2325) Option Key (Mac)
+⇧ — (U+21E7) Shift Key
+⌃ — (U+2303) Control Key
+⎈ — (U+2388) Alternative Control Key
+⎋ — (U+238B) Escape Key
+⏎ — (U+23CE) Return / Enter Key
+↩ — (U+21A9) Return Left Arrow
+↵ — (U+21B5) Enter (nova linha)
+␣ — (U+2423) Espaço visual (space)
+⌫ — (U+232B) Backspace
+⌦ — (U+2326) Delete Forward
+⎆ — (U+2386) Enter symbol (variante)
+⇪ — (U+21EA) Caps Lock
+⏏ — (U+23CF) Eject
+⎗ — (U+2397) Print Screen
+⎙ — (U+2399) Print Symbol
+⎘ — (U+2398) Execute
+⎚ — (U+239A) Clear Screen
+⎛ ⎜ ⎝ — (U+239B–U+239D) Parênteses esquerdos altos
+⎞ ⎟ ⎠ — (U+239E–U+23A0) Parênteses direitos altos
+⎡ ⎢ ⎣ — Colchetes verticais
+⎤ ⎥ ⎦ — Colchetes direitos verticais
+⎧ ⎨ ⎩ — Chaves verticais
+⎫ ⎬ ⎭ — Chaves direitas verticais
+⌇ — (U+2307) Wavy Line (linha de depuração)
+⌖ — (U+2316) Crosshair (mira)
+⌗ — (U+2317) Viewdata Square (símbolo técnico)
+⌙ — (U+2319) Turned Not Sign
+⌚ — (U+231A) Relógio de pulso
+⌛ — (U+231B) Ampulheta
+⏳ — (U+23F3) Ampulheta (carregando)
+⏰ — (U+23F0) Relógio despertador
+⏱ — (U+23F1) Cronômetro
+⏲ — (U+23F2) Timer
+⏴⏵⏶⏷ — (U+23F4–U+23F7) Setas de reprodução
+⏸ ⏹ ⏺ — (U+23F8–U+23FA) Pausar / Parar / Gravar
+⏯ — (U+23EF) Play/Pause
+⏮ ⏭ — (U+23EE, U+23ED) Anterior / Próximo
+⏪ ⏩ — (U+23EA, U+23E9) Retroceder / Avançar
+⏫ ⏬ — (U+23EB, U+23EC) Subir / Descer
+⎇ — (U+2387) Alternate Key (Alt)
+⎉ — (U+2389) Cancel Key
+⎊ — (U+238A) Pause Key
+⎋ — (U+238B) Escape
+⎌ — (U+238C) Undo Key
+⎍ — (U+238D) Redo Key
+⎎ — (U+238E) Tab Left
+⎏ — (U+238F) Tab Right
+⎐ — (U+2390) Tab Up
+⎑ — (U+2391) Tab Down
+⎒ — (U+2392) Shift In
+⎓ — (U+2393) Shift Out
+⎔ — (U+2394) Character Tabulation
+⎕ — (U+2395) Box Symbol (usado em UIs)
+⎖ — (U+2396) Insert
+⎘ — (U+2398) Execute
+⎗ — (U+2397) Print Screen
+⎙ — (U+2399) Print Symbol
+⎚ — (U+239A) Clear Screen
+⎛⎜⎝⎞⎟⎠ — (U+239B–U+23A0) Símbolos de matriz
+⎡⎢⎣⎤⎥⎦ — (U+23A1–U+23A6) Colchetes matemáticos
+⎧⎨⎩⎫⎬⎭ — (U+23A7–U+23AD) Chaves matemáticas
+⎰⎱ — (U+23B0–U+23B1) Chaves médias
+⌨ — (U+2328) Teclado
+⌫ — (U+232B) Apagar
+⌦ — (U+2326) Delete
+⌧ — (U+2327) Clear
+⌨️ — (U+2328 FE0F) Teclado emoji
+⚡ — (U+26A1) Alta Tensão / Relâmpago / Corrente Elétrica
+⎓ — (U+2393) Corrente Contínua (DC)
+⎔ — (U+2394) Corrente Alternada (AC)
+⏚ — (U+23DA) Símbolo de Terra (Earth Ground)
+⏛ — (U+23DB) Terra de Proteção / Chassi
+⏜ — (U+23DC) Arco Elétrico / Conector Superior
+⏝ — (U+23DD) Arco Elétrico / Conector Inferior
+⏞ — (U+23DE) Agrupamento Superior (ligação)
+⏟ — (U+23DF) Agrupamento Inferior
+⎍ — (U+238D) Símbolo de Redo / Sinal elétrico reversível
+⚙ — (U+2699) Engrenagem / Mecânica
+⚙️ — (U+2699 FE0F) Engrenagem emoji
+⚫⚪ — (U+26AB / U+26AA) Ponto Conectado / Desconectado
+⏼ — (U+23FC) Power On/Off (símbolo de energia)
+⭘ — (U+2B58) Círculo grande (usado pra conexões elétricas)
+⭙ — (U+2B59) Ponto cheio (conexão de fio)
+⎎ — (U+238E) Tabulação esquerda (pode representar chave de controle)
+⏻ — (U+23FB) Power On (ligar)
+⏼ — (U+23FC) Power Off (desligar)
+⏽ — (U+23FD) Standby
+⭘⭙⭗⭖ — Conectores e pinos
+⚭ — (U+26AD) Conector (Link elétrico)
+⚮ — (U+26AE) Desconectado
+⚯ — (U+26AF) Conector alternado
+⚰⚱⚲⚳⚴⚵⚶⚷⚸⚹⚺⚻⚼⚽ — (U+26B0–U+26BD) símbolos diversos técnicos, alguns usados em esquemas antigos
+⚫ — Terminal (ponto de ligação)
+⏚ — Terra elétrica
+⏛ — Terra lógica / de chassi
+⎗ — Impressão (saída)
+⎘ — Execução (entrada)
+⎙ — Impressão simbólica (saída de dados)
+⚪ — Conexão aberta
+⚫ — Conexão fechada
+⏻ — Ligar
+⏼ — Desligar
+⏽ — Espera
+⚾ — Corrente alternada (simbolicamente usada às vezes)
+🜍 — (U+1F70D) Símbolo alquímico de corrente elétrica
+🜔 — (U+1F714) Símbolo de metal / condutividade
+🜕 — (U+1F715) Símbolo de ferro
+🜖 — (U+1F716) Símbolo de cobre
+🜛 — (U+1F71B) Símbolo de enxofre
+🜜 — (U+1F71C) Símbolo de mercúrio
+🔌 — (U+1F50C) Plugue Elétrico
+🔋 — (U+1F50B) Bateria (carregada)
+🪫 — (U+1FAAB) Bateria Fraca / Descarregada
+🔋🪫⚡ — Ícones de energia e carga
+🔌⚡🔋 — Sequência comum pra “carregando”
+🔩 — (U+1F529) Parafuso / Porca
+🔧 — (U+1F527) Chave Inglesa
+⚙️ — Engrenagem
+🧰 — (U+1F9F0) Caixa de ferramentas
+🪛 — (U+1FA9B) Chave de fenda
+🪚 — (U+1FA9A) Serra
+🪜 — (U+1FA9C) Escada
+🪛⚙️🔩 — Manutenção / montagem
+⚠ — (U+26A0) Aviso
+☢ — (U+2622) Radiação
+☣ — (U+2623) Biohazard
+⚡ — Alta tensão / choque elétrico
+🛑 — Pare
+🚫 — Proibido
+🔞 — Restrição
++ − × ÷ = ≠ ≈ ≡ ≤ ≥ < > ∞ ∝ ∑ ∏ ∐ ∂ ∇ √ ∛ ∜ ∫ ∬ ∭ ∮ ∯ ∰ ∇ ⋅ ⋆ ∗ ∧ ∨ ¬ ∀ ∃ ∄ ∈ ∉ ∋ ∌ ∅ ∩ ∪ ⊂ ⊃ ⊆ ⊇ ⊄ ⊅ ⊊ ⊋ ⊕ ⊗ ⊥ ∠ ∡ ∢ ∴ ∵ ∶ ∷ ∼ ≃ ≅ ≈ ≉ ≊ ≋ ≌ ≍ ≎ ≏
+⊕ ⊖ ⊗ ⊘ ⊙ ⊚ ⊛ ⊜ ⊝ ⊞ ⊟ ⊠ ⊡ ⊢ ⊣ ⊤ ⊥ ⊦ ⊧ ⊨ ⊩ ⊪ ⊫ ⊬ ⊭ ⊮ ⊯ ⊰ ⊱ ⊲ ⊳ ⊴ ⊵ ⊶ ⊷ ⊸ ⊹ ⊺ ⊻ ⊼ ⊽ ⊾ ⊿ ⋀ ⋁ ⋂ ⋃ ⋄ ⋅ ⋆ ⋇ ⋈ ⋉ ⋊ ⋋ ⋌ ⋍ ⋎ ⋏
+◻ ◼ ◽ ◾ ▢ ▣ ▤ ▥ ▦ ▧ ▨ ▩ ◆ ◇ ▷ ◁ ▷ ◁ ▷▸ ◂ △ ▵ ▴ ▵ ▿ ▾ ▿ ▽ ⬛ ⬜ ⬟ ⬢ ⬣ ⬤ ⬥ ⬦ ⬧ ⬨ ⬩ ⬪ ⬫ ⬬ ⬭ ⬮ ⬯
+∟ ⦜ ⦝ ⦞ ⦟ ⦠ ⦡ ⦢ ⦣ ⦤ ⦥ ⦦ ⦧ ⦨ ⦩ ⦪ ⦫ ⦬ ⦭ ⦮ ⦯ ⦰ ⦱ ⦲ ⦳ ⦴ ⦵ ⦶ ⦷
+∧ ∨ ¬ ∀ ∃ ∄ ∈ ∉ ∋ ∌ ∅ ⊂ ⊃ ⊆ ⊇ ⊄ ⊅ ⊊ ⊋ ∪ ∩ ⊎ ⊏ ⊐ ⊑ ⊒ ⊓ ⊔ ⊕ ⊖ ⊗ ⊘ ⊙ ⊚ ⊛ ⊜ ⊝ ⊞ ⊟ ⊠ ⊡
+ℏ — Planck constant over 2π
+ℓ — Script L (geralmente comprimento)
+℧ — Conductance
+℃ — Graus Celsius
+Å — Ångström
+Ω — Ohm
+µ — micro
+Δ — Delta
+∇ — Nabla / gradiente
+→ ← ↑ ↓ ↔ ↕ ↖ ↗ ↘ ↙ ⟶ ⟵ ⟷ ⤴ ⤵
+Σ — Soma
+Π — Produto
+∑ — Somatório
+∏ — Produto total
+∂ — Derivada parcial
+∇ — Gradiente
+≈ — Aproximado
+≃ — Semelhante
+≅ — Congruente
+∫ ∮ ∯ ∰ ∬ ∭ ∱ ⨌ ⨍ ⨎ ⨏ ⨐ ⨑ ⨒ ⨓ ⨔ ⨕ ⨖ ⨗ ⨘ ⨙ ⨚ ⨛
